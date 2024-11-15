@@ -1,7 +1,7 @@
 # Fraud detection
 
 ## Description
-Deteacting fraudulent transactions.
+Detection of fraudulent transactions.
 It features:
 - a jupyter notebook ```./notebook/analysis_training.ipynb``` with:
   - exploratory data analysis
